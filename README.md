@@ -5,5 +5,5 @@ Use this script to generate vanity addresses.
 ## Usage
 
 ```
-python3 gen.py <prefix>
+python gen.py <rpcuser> <rpcpass> <prefix> <ignore case (default True)>
 ```
